@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Tareas de catálogo cerrado incompleto</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX CatalogTask cerrado incompleto</name>
+        <query_condition table="sc_task">state=4^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORDERBYnumber<item display_value="Closed Incomplete" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="4"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 13:45:19</sys_created_on>
+        <sys_id>ab100e4f1b6d50104bea97d01b4bcb3c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SLX CatalogTask cerrado incompleto</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_data_item_ab100e4f1b6d50104bea97d01b4bcb3c</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:32:50</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab100e4f1b6d50104bea97d01b4bcb3c"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>ab100e4f1b6d50104bea97d01b4bcb3c</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:32:50</sys_created_on>
+        <sys_id>b839c6c11bf998104bea97d01b4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:32:50</sys_updated_on>
+        <tablename>sys_sg_data_item</tablename>
+        <value>Tareas de catálogo cerrado incompleto</value>
+    </sys_translated_text>
+</record_update>

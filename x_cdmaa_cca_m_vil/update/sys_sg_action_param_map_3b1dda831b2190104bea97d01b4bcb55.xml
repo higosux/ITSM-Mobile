@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Asignarme Incidente">b308597a1be510104bea97d01b4bcbda</button>
+        <item_parameter display_value="incident number">e6acda031b2190104bea97d01b4bcb29</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 15:52:27</sys_created_on>
+        <sys_id>3b1dda831b2190104bea97d01b4bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e6acda031b2190104bea97d01b4bcb29</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_3b1dda831b2190104bea97d01b4bcb55</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 15:52:27</sys_updated_on>
+        <ui_parameter display_value="number">395b9a031b2190104bea97d01b4bcbd4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

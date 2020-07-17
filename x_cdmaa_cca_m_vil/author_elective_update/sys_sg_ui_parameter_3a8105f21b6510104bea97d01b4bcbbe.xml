@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="New Button (Catalog Task)">7e8105f21b6510104bea97d01b4bcbb0</button>
+        <button_parent_table>sc_task</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>business_service</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Service</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:27</sys_created_on>
+        <sys_id>3a8105f21b6510104bea97d01b4bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_3a8105f21b6510104bea97d01b4bcbbe</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:27</sys_updated_on>
+        <table_name>sc_task</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=3a8105f21b6510104bea97d01b4bcbbe"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_sg_ui_parameter_3a8105f21b6510104bea97d01b4bcbbe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Catalog Task)">7e8105f21b6510104bea97d01b4bcbb0</button>
+        <button_parent_table>sc_task</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>business_service</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Service</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:27</sys_created_on>
+        <sys_id>3a8105f21b6510104bea97d01b4bcbbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_3a8105f21b6510104bea97d01b4bcbbe</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:27</sys_updated_on>
+        <table_name>sc_task</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=3a8105f21b6510104bea97d01b4bcbbe"/>
+</record_update>]]></payload>
+        <payload_hash>208534827</payload_hash>
+        <record_name>Service</record_name>
+        <reverted_from/>
+        <source>25a43a321b2150104bea97d01b4bcbde</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 22:56:28</sys_created_on>
+        <sys_id>9fa43e321b2150104bea97d01b4bcbb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172edb259f40000001</sys_recorded_at>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 22:56:28</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>dba43e32b9215010146f39ebd4a699b2</update_guid>
+        <update_guid_history>dba43e32b9215010146f39ebd4a699b2:0,0a94b232962150105db9467800ef1052:-2113895691,61e3367a3ded10107abba40aac89098c:0,56c3b63a06ed1010b3e6335c8c7b3e88:-2113895691,2afc5dfe28e510108daff7243f754d8a:0,23dcd1fed9e51010657a15b9d62644e6:-2113895691,bf8185f25b65101040b211ce84de1157:-283859095</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 21:24:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>00bbf8e46d5e4918811310d387c06119</sys_id>
+        <sys_metadata>3a8105f21b6510104bea97d01b4bcbbe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_3a8105f21b6510104bea97d01b4bcbbe</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_3a8105f21b6510104bea97d01b4bcbbe">9fa43e321b2150104bea97d01b4bcbb2</sys_update_version>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:24:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

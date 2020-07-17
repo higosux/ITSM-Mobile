@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Catalog Task)">f28105f21b6510104bea97d01b4bcb9f</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Catalog Task)</name>
+        <order/>
+        <parent>3e8105f21b6510104bea97d01b4bcb8d</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:27</sys_created_on>
+        <sys_id>3a8105f21b6510104bea97d01b4bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Catalog Task)</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3a8105f21b6510104bea97d01b4bcba0</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:27</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=3a8105f21b6510104bea97d01b4bcba0"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_sg_button_instance_3a8105f21b6510104bea97d01b4bcba0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Catalog Task)">f28105f21b6510104bea97d01b4bcb9f</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Catalog Task)</name>
+        <order/>
+        <parent>3e8105f21b6510104bea97d01b4bcb8d</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:27</sys_created_on>
+        <sys_id>3a8105f21b6510104bea97d01b4bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Catalog Task)</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3a8105f21b6510104bea97d01b4bcba0</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:27</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=3a8105f21b6510104bea97d01b4bcba0"/>
+</record_update>]]></payload>
+        <payload_hash>-1631509179</payload_hash>
+        <record_name>Delete (Catalog Task)</record_name>
+        <reverted_from/>
+        <source>25a43a321b2150104bea97d01b4bcbde</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 22:56:23</sys_created_on>
+        <sys_id>c6a4ba321b2150104bea97d01b4bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172edb248a80000001</sys_recorded_at>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 22:56:23</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>06a4ba32242150102ea10df1184d7137</update_guid>
+        <update_guid_history>06a4ba32242150102ea10df1184d7137:0,4a94b232ae215010f39a020138589923:1086328905,14e3727adaed10100d8d1a574340a0f8:0,9ec3b63ab3ed10107c204bdf14ddbe71:1086328905,55fcd9fe96e51010d4ff6dbd98b1de5c:0,6bdcd1feb4e5101025c46d768918efcf:1086328905,409185f2c8651010dd0572e5988378d9:1571891157</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 21:25:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>235b0d2c0a3b42a09a77bd29a689aea4</sys_id>
+        <sys_metadata>3a8105f21b6510104bea97d01b4bcba0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Catalog Task)</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_3a8105f21b6510104bea97d01b4bcba0</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_3a8105f21b6510104bea97d01b4bcba0">c6a4ba321b2150104bea97d01b4bcb37</sys_update_version>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:25:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

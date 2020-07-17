@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX Asignado a mis grupos</name>
+        <query_condition table="task">active=true^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^assigned_toISNOTEMPTY^sys_class_name=sc_task^ORsys_class_name=incident^ORDERBYnumber<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item display_value="Catalog Task" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="sc_task"/>
+            <item display_value="Incident" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="true" value="incident"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 20:58:43</sys_created_on>
+        <sys_id>2edcd2891b3d98104bea97d01b4bcbbb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SLX Asignado a mis grupos</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_data_item_2edcd2891b3d98104bea97d01b4bcbbb</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-06 20:03:56</sys_updated_on>
+        <table>task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=2edcd2891b3d98104bea97d01b4bcbbb"/>
+</record_update>

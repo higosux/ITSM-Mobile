@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description>editar re</description>
+        <execution_script/>
+        <name>Edit (Requested Item)</name>
+        <query_condition table="sc_req_item">sys_idSTARTSWITH{{Requested Item sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Requested Item sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:28</sys_created_on>
+        <sys_id>038145f21b6510104bea97d01b4bcb6c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Edit (Requested Item)</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_038145f21b6510104bea97d01b4bcb6c</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 16:34:15</sys_updated_on>
+        <table>sc_req_item</table>
+        <template>state={{Requested Item state}}^short_description={{Requested Item short_description}}^description={{Requested Item description}}^assigned_to={{Requested Item assigned_to}}^assignment_group={{Requested Item assignment_group}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=038145f21b6510104bea97d01b4bcb6c"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_sg_write_back_action_item_038145f21b6510104bea97d01b4bcb6c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>editar re</description>
+        <execution_script/>
+        <name>Edit (Requested Item)</name>
+        <query_condition table="sc_req_item">sys_idSTARTSWITH{{Requested Item sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Requested Item sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:28</sys_created_on>
+        <sys_id>038145f21b6510104bea97d01b4bcb6c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Edit (Requested Item)</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_038145f21b6510104bea97d01b4bcb6c</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 16:34:15</sys_updated_on>
+        <table>sc_req_item</table>
+        <template>state={{Requested Item state}}^short_description={{Requested Item short_description}}^description={{Requested Item description}}^assigned_to={{Requested Item assigned_to}}^assignment_group={{Requested Item assignment_group}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=038145f21b6510104bea97d01b4bcb6c"/>
+</record_update>]]></payload>
+        <payload_hash>-694653228</payload_hash>
+        <record_name>Edit (Requested Item)</record_name>
+        <reverted_from/>
+        <source>25a43a321b2150104bea97d01b4bcbde</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 22:56:29</sys_created_on>
+        <sys_id>27a47e321b2150104bea97d01b4bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172edb25f3b0000001</sys_recorded_at>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 22:56:29</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>63a47e328b2150108332742840a45b61</update_guid>
+        <update_guid_history>63a47e328b2150108332742840a45b61:0,dd9432320e2150103c59de8dc3892914:1223732744,f5e3767a96ed101025730c00786b943a:0,45c3f23a8fed1010b6bf220bf594f17f:1223732744,d43d95721a2910102c8b69018f1be0b6:-1797427180,36fc9dfefde5101080e5284b8958b326:0,66dc91fedce510107990e0f2794f9e36:-479026232,b84f4176d3a5101005963506066160f0:813463252,4c91c5f2386510108ce1a10408569161:1659130310</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 21:21:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>0d12a9b8088141eea60719561c6a4499</sys_id>
+        <sys_metadata>038145f21b6510104bea97d01b4bcb6c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Requested Item)</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_038145f21b6510104bea97d01b4bcb6c</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_038145f21b6510104bea97d01b4bcb6c">27a47e321b2150104bea97d01b4bcb61</sys_update_version>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:21:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

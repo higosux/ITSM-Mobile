@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Edit Button (Requested Item)">878145f21b6510104bea97d01b4bcb7c</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Requested Item)</name>
+        <order/>
+        <parent>8b8145f21b6510104bea97d01b4bcb1b</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:28</sys_created_on>
+        <sys_id>078145f21b6510104bea97d01b4bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Requested Item)</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_078145f21b6510104bea97d01b4bcb9b</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:28</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=078145f21b6510104bea97d01b4bcb9b"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_sg_button_instance_078145f21b6510104bea97d01b4bcb9b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Requested Item)">878145f21b6510104bea97d01b4bcb7c</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Requested Item)</name>
+        <order/>
+        <parent>8b8145f21b6510104bea97d01b4bcb1b</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:28</sys_created_on>
+        <sys_id>078145f21b6510104bea97d01b4bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Requested Item)</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_078145f21b6510104bea97d01b4bcb9b</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:28</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=078145f21b6510104bea97d01b4bcb9b"/>
+</record_update>]]></payload>
+        <payload_hash>2021802210</payload_hash>
+        <record_name>Edit (Requested Item)</record_name>
+        <reverted_from/>
+        <source>25a43a321b2150104bea97d01b4bcbde</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 22:56:23</sys_created_on>
+        <sys_id>82a4ba321b2150104bea97d01b4bcb31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172edb248710000001</sys_recorded_at>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 22:56:23</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>cea4ba326c21501019cd1b6e81823930</update_guid>
+        <update_guid_history>cea4ba326c21501019cd1b6e81823930:0,999432322f21501091ce982eb071e02d:578564718,dce3727a89ed1010cb14dea169d832f1:0,8dc3f23a47ed1010b84ff2525732d8ad:578564718,15fcd9fe63e510106496f0c42cb2a056:0,36dc91fe51e51010f2fd909cf45e224f:578564718,d491c5f2b6651010c628a88c8734b7c6:-1009886622</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 21:24:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>5c7b89c3a9eb4e7cb8b4b933bcdae890</sys_id>
+        <sys_metadata>078145f21b6510104bea97d01b4bcb9b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Requested Item)</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_078145f21b6510104bea97d01b4bcb9b</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_078145f21b6510104bea97d01b4bcb9b">82a4ba321b2150104bea97d01b4bcb31</sys_update_version>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:24:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

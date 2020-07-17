@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="DELETE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:16</sys_created_on>
+        <sys_id>d87ace051bf998104bea97d01b4bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inicio {{c47ace051bf998104bea97d01b4bcb30}}</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_d87ace051bf998104bea97d01b4bcb34</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:16</sys_updated_on>
+        <text>Inicio {{c47ace051bf998104bea97d01b4bcb30}}</text>
+        <variables>c47ace051bf998104bea97d01b4bcb30</variables>
+    </sys_sg_applet_launcher_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_sg_applet_launcher_header_d87ace051bf998104bea97d01b4bcb34</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header"><sys_sg_applet_launcher_header action="INSERT_OR_UPDATE"><sys_class_name>sys_sg_applet_launcher_header</sys_class_name><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:38:16</sys_created_on><sys_id>d87ace051bf998104bea97d01b4bcb34</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inicio {{c47ace051bf998104bea97d01b4bcb30}}</sys_name><sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package><sys_policy/><sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope><sys_update_name>sys_sg_applet_launcher_header_d87ace051bf998104bea97d01b4bcb34</sys_update_name><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:38:16</sys_updated_on><text>Inicio {{c47ace051bf998104bea97d01b4bcb30}}</text><variables>c47ace051bf998104bea97d01b4bcb30</variables></sys_sg_applet_launcher_header></record_update>]]></payload>
+        <payload_hash>1996413031</payload_hash>
+        <record_name>Inicio {{c47ace051bf998104bea97d01b4bcb30}}</record_name>
+        <reverted_from/>
+        <source>444cb8701bf158104bea97d01b4bcb3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:16</sys_created_on>
+        <sys_id>987ace051bf998104bea97d01b4bcb42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173110969a90000001</sys_recorded_at>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:16</sys_updated_on>
+        <type>Título de encabezado</type>
+        <update_guid>d07ace0588f99810516e187b05399e42</update_guid>
+        <update_guid_history>d07ace0588f99810516e187b05399e42:1996413031</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 21:02:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_header">sys_sg_applet_launcher_header</sys_db_object>
+        <sys_id>36469ed6fb254aeca555a1799ff8baa4</sys_id>
+        <sys_metadata>d87ace051bf998104bea97d01b4bcb34</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inicio {{c47ace051bf998104bea97d01b4bcb30}}</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_header_d87ace051bf998104bea97d01b4bcb34</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_header_d87ace051bf998104bea97d01b4bcb34">987ace051bf998104bea97d01b4bcb42</sys_update_version>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 21:02:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

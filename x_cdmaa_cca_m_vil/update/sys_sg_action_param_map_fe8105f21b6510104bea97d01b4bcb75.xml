@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Editar Incidente">fa8105f21b6510104bea97d01b4bcb53</button>
+        <item_parameter display_value="Incident description">aa8105f21b6510104bea97d01b4bcb49</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:26</sys_created_on>
+        <sys_id>fe8105f21b6510104bea97d01b4bcb75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aa8105f21b6510104bea97d01b4bcb49</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_fe8105f21b6510104bea97d01b4bcb75</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:26</sys_updated_on>
+        <ui_parameter display_value="Description">ba8105f21b6510104bea97d01b4bcb5a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

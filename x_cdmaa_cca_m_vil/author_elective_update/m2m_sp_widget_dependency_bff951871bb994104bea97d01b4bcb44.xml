@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="DELETE">
+        <sp_dependency display_value="RetinaIconsCSS">ed4d86b06700320080c6c3105685ef41</sp_dependency>
+        <sp_widget display_value="SLX My Surveys">73f9d5471bb994104bea97d01b4bcbe1</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-08 21:14:28</sys_created_on>
+        <sys_id>bff951871bb994104bea97d01b4bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RetinaIconsCSS.SLX My Surveys</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_bff951871bb994104bea97d01b4bcb44</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-08 21:14:28</sys_updated_on>
+    </m2m_sp_widget_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>m2m_sp_widget_dependency_bff951871bb994104bea97d01b4bcb44</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency"><m2m_sp_widget_dependency action="INSERT_OR_UPDATE"><sp_dependency display_value="RetinaIconsCSS">ed4d86b06700320080c6c3105685ef41</sp_dependency><sp_widget display_value="SLX My Surveys">73f9d5471bb994104bea97d01b4bcbe1</sp_widget><sys_class_name>m2m_sp_widget_dependency</sys_class_name><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-08 21:14:28</sys_created_on><sys_id>bff951871bb994104bea97d01b4bcb44</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RetinaIconsCSS.SLX My Surveys</sys_name><sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package><sys_policy/><sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope><sys_update_name>m2m_sp_widget_dependency_bff951871bb994104bea97d01b4bcb44</sys_update_name><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-08 21:14:28</sys_updated_on></m2m_sp_widget_dependency></record_update>]]></payload>
+        <payload_hash>-1528851076</payload_hash>
+        <record_name>RetinaIconsCSS.SLX My Surveys</record_name>
+        <reverted_from/>
+        <source>444cb8701bf158104bea97d01b4bcb3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-08 21:14:28</sys_created_on>
+        <sys_id>37f951871bb994104bea97d01b4bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1733047a3ff0000001</sys_recorded_at>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-08 21:14:28</sys_updated_on>
+        <type>Widget Dependency</type>
+        <update_guid>7ff951877db9941039c1c50577b42346</update_guid>
+        <update_guid_history>7ff951877db9941039c1c50577b42346:-1528851076</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9020254f1bb994104bea97d01b4bcbbf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-08 21:41:15</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_widget_dependency">m2m_sp_widget_dependency</sys_db_object>
+        <sys_id>7617ccf92dd3474892947265c1185384</sys_id>
+        <sys_metadata>bff951871bb994104bea97d01b4bcb44</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RetinaIconsCSS.SLX My Surveys</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>m2m_sp_widget_dependency_bff951871bb994104bea97d01b4bcb44</sys_update_name>
+        <sys_update_version display_value="m2m_sp_widget_dependency_bff951871bb994104bea97d01b4bcb44">37f951871bb994104bea97d01b4bcb47</sys_update_version>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-08 21:41:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

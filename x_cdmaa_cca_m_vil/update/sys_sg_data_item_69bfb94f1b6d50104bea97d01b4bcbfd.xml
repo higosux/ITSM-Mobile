@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Tareas de catálogo sin asignar</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX CatalogTask sin asignar</name>
+        <query_condition table="sc_task">state=200^assigned_toISEMPTY^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^ORDERBYnumber<item display_value="Assigned" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="200"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 13:43:33</sys_created_on>
+        <sys_id>69bfb94f1b6d50104bea97d01b4bcbfd</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>SLX CatalogTask sin asignar</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_data_item_69bfb94f1b6d50104bea97d01b4bcbfd</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:30:00</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=69bfb94f1b6d50104bea97d01b4bcbfd"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>69bfb94f1b6d50104bea97d01b4bcbfd</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:30:00</sys_created_on>
+        <sys_id>4f888a811bf998104bea97d01b4bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:30:00</sys_updated_on>
+        <tablename>sys_sg_data_item</tablename>
+        <value>Tareas de catálogo sin asignar</value>
+    </sys_translated_text>
+</record_update>

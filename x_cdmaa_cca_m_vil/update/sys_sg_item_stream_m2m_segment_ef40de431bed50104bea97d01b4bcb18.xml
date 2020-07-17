@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Resueltos Item Stream">f5be350f1b6d50104bea97d01b4bcb76</item_stream>
+        <segment display_value="Inc - Sctask resueltos">6f3092431bed50104bea97d01b4bcb85</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 14:56:29</sys_created_on>
+        <sys_id>ef40de431bed50104bea97d01b4bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_ef40de431bed50104bea97d01b4bcb18</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 14:56:29</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

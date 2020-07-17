@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Cancelar Incidente">209db4341bf158104bea97d01b4bcb0d</button>
+        <item_parameter display_value="assigned to">0352c5b81bf158104bea97d01b4bcb1c</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-01 19:45:44</sys_created_on>
+        <sys_id>4a828df81bf158104bea97d01b4bcb5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0352c5b81bf158104bea97d01b4bcb1c</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4a828df81bf158104bea97d01b4bcb5a</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-01 19:45:44</sys_updated_on>
+        <ui_parameter display_value="assigned to">866201f81bf158104bea97d01b4bcbe5</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX RITM Resolutor</name>
+        <query_condition table="sc_req_item">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORassignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^ORDERBYnumber<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="true" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 18:05:31</sys_created_on>
+        <sys_id>2535bd0d1b7998104bea97d01b4bcbf6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SLX RITM Resolutor</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_data_item_2535bd0d1b7998104bea97d01b4bcbf6</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:32:33</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=2535bd0d1b7998104bea97d01b4bcbf6"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>2535bd0d1b7998104bea97d01b4bcbf6</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:32:33</sys_created_on>
+        <sys_id>1829ce811bf998104bea97d01b4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:32:33</sys_updated_on>
+        <tablename>sys_sg_data_item</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="DELETE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>incident</collection>
+        <condition table="incident">work_notesVALCHANGES^EQ<item endquery="false" field="work_notes" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>alm_transfer_order_line_subtask.escalati</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html/>
+        <message_list>6d2fa5b01bf558104bea97d01b4bcbbc</message_list>
+        <message_text/>
+        <name>SLX Incidente comentario</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>true</push_message_only>
+        <recipient_fields>assigned_to,caller_id</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject/>
+        <subscribable>true</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-01 22:59:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8cceed701bf558104bea97d01b4bcb76</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>SLX Incidente comentario</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sysevent_email_action_8cceed701bf558104bea97d01b4bcb76</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-01 23:01:53</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sysevent_email_action_8cceed701bf558104bea97d01b4bcb76</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition table="incident"&gt;work_notesVALCHANGES^EQ&lt;item endquery="false" field="work_notes" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;event_name&gt;alm_transfer_order_line_subtask.escalati&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html/&gt;&lt;message_list&gt;6d2fa5b01bf558104bea97d01b4bcbbc&lt;/message_list&gt;&lt;message_text/&gt;&lt;name&gt;SLX Incidente comentario&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;true&lt;/push_message_only&gt;&lt;recipient_fields&gt;assigned_to,caller_id&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject/&gt;&lt;subscribable&gt;true&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;slx.gs2&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-01 22:59:22&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;8cceed701bf558104bea97d01b4bcb76&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;SLX Incidente comentario&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil"&gt;19c045fe1b2510104bea97d01b4bcbe5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CCA Móvil"&gt;19c045fe1b2510104bea97d01b4bcbe5&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_8cceed701bf558104bea97d01b4bcb76&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;slx.gs2&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-01 23:01:53&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1036158900</payload_hash>
+        <record_name>SLX Incidente comentario</record_name>
+        <reverted_from/>
+        <source>444cb8701bf158104bea97d01b4bcb3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-01 23:01:53</sys_created_on>
+        <sys_id>0d7fed301bf558104bea97d01b4bcbd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1730c9d77c80000001</sys_recorded_at>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-01 23:01:53</sys_updated_on>
+        <type>Notification</type>
+        <update_guid>457fed305af558104b069944a38cddd3</update_guid>
+        <update_guid_history>457fed305af558104b069944a38cddd3:-1036158900,ea4f29b032f558104815e2b417797cb0:-1563559952,3b3f29b0f7f55810eccbdee5b3dcfbdc:682411725,42fee1b029f55810cda24fdb47cbe220:-1928870770,50ee29308ff558105e561ef52493a770:-250851147</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.rm</sys_created_by>
+        <sys_created_on>2020-07-01 23:40:19</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_action">sysevent_email_action</sys_db_object>
+        <sys_id>4707d2e6f6df4f1cbf1c23752aacda11</sys_id>
+        <sys_metadata>8cceed701bf558104bea97d01b4bcb76</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SLX Incidente comentario</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent display_value="">0e3e74151be00010c7c62fc13b4bcb3d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sysevent_email_action_8cceed701bf558104bea97d01b4bcb76</sys_update_name>
+        <sys_update_version display_value="sysevent_email_action_8cceed701bf558104bea97d01b4bcb76">0d7fed301bf558104bea97d01b4bcbd3</sys_update_version>
+        <sys_updated_by>slx.rm</sys_updated_by>
+        <sys_updated_on>2020-07-01 23:40:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>incidentes sin asignar</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX Incidentes sin asignar</name>
+        <query_condition table="incident">state=200^ORstate=1^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^assigned_toISEMPTY^ORDERBYnumber<item display_value="Assigned" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="200"/>
+            <item display_value="New" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="1"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 13:28:32</sys_created_on>
+        <sys_id>254cb10b1b6d50104bea97d01b4bcbd9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>SLX Incidentes sin asignar</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_data_item_254cb10b1b6d50104bea97d01b4bcbd9</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:29:14</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=254cb10b1b6d50104bea97d01b4bcbd9"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>254cb10b1b6d50104bea97d01b4bcbd9</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:29:15</sys_created_on>
+        <sys_id>4868c6811bf998104bea97d01b4bcb46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:29:15</sys_updated_on>
+        <tablename>sys_sg_data_item</tablename>
+        <value>incidentes sin asignar</value>
+    </sys_translated_text>
+</record_update>

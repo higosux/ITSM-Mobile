@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">9ae786411bf998104bea97d01b4bcb8b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="Icono de usuario">96e786411bf998104bea97d01b4bcb89</icon>
+        <label>Inicio Launcher Button Instance</label>
+        <location>top</location>
+        <name>Inicio Launcher Button Instance</name>
+        <order/>
+        <parent>e281c1f21b6510104bea97d01b4bcbf0</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:27:13</sys_created_on>
+        <sys_id>56e786411bf998104bea97d01b4bcba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inicio Launcher Button Instance</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_56e786411bf998104bea97d01b4bcba9</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:27:13</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=56e786411bf998104bea97d01b4bcba9"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>56e786411bf998104bea97d01b4bcba9</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:27:13</sys_created_on>
+        <sys_id>16e786411bf998104bea97d01b4bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:27:13</sys_updated_on>
+        <tablename>sys_sg_button_instance</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_sg_button_instance_56e786411bf998104bea97d01b4bcba9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">9ae786411bf998104bea97d01b4bcb8b</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="Icono de usuario">96e786411bf998104bea97d01b4bcb89</icon><label>Inicio Launcher Button Instance</label><location>top</location><name>Inicio Launcher Button Instance</name><order/><parent>e281c1f21b6510104bea97d01b4bcbf0</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:27:13</sys_created_on><sys_id>56e786411bf998104bea97d01b4bcba9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inicio Launcher Button Instance</sys_name><sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package><sys_policy/><sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope><sys_update_name>sys_sg_button_instance_56e786411bf998104bea97d01b4bcba9</sys_update_name><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:27:13</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=56e786411bf998104bea97d01b4bcba9"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>56e786411bf998104bea97d01b4bcba9</documentkey><fieldname>description</fieldname><language>es</language><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:27:13</sys_created_on><sys_id>16e786411bf998104bea97d01b4bcbaa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:27:13</sys_updated_on><tablename>sys_sg_button_instance</tablename><value/></sys_translated_text></record_update>]]></payload>
+        <payload_hash>-1419002411</payload_hash>
+        <record_name>Inicio Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>444cb8701bf158104bea97d01b4bcb3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:27:13</sys_created_on>
+        <sys_id>9ae786411bf998104bea97d01b4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17310ff4cdd0000001</sys_recorded_at>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:27:13</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>16e786416ff99810481de6f22ed766ab</update_guid>
+        <update_guid_history>16e786416ff99810481de6f22ed766ab:-1419002411</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>d6a46b740e074e52a675767205f476e4</sys_id>
+        <sys_metadata>56e786411bf998104bea97d01b4bcba9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inicio Launcher Button Instance</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_56e786411bf998104bea97d01b4bcba9</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_56e786411bf998104bea97d01b4bcba9">9ae786411bf998104bea97d01b4bcbab</sys_update_version>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

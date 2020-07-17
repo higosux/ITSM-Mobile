@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="SLX Nuevo INC">e60dfed01b39d4104bea97d01b4bcb5e</data_item>
+        <interleaved_field/>
+        <name>Icono + Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-01 14:13:58</sys_created_on>
+        <sys_id>c0a6b7a01bbd18104bea97d01b4bcb86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Icono + Item Stream</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_item_stream_c0a6b7a01bbd18104bea97d01b4bcb86</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-01 14:13:58</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_item_stream>
+</record_update>

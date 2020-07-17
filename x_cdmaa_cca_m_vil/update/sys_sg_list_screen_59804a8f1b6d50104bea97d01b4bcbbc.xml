@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Tareas de catálogo abiertas</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Edit">0d804a8f1b6d50104bea97d01b4bcbb6</icon>
+        <item_view/>
+        <name>Tareas de catálogo Abiertas</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 13:47:04</sys_created_on>
+        <sys_id>59804a8f1b6d50104bea97d01b4bcbbc</sys_id>
+        <sys_mod_count>35</sys_mod_count>
+        <sys_name>Tareas de catálogo Abiertas</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_list_screen_59804a8f1b6d50104bea97d01b4bcbbc</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-13 19:54:59</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=59804a8f1b6d50104bea97d01b4bcbbc"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>59804a8f1b6d50104bea97d01b4bcbbc</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-09 20:16:23</sys_created_on>
+        <sys_id>8b46d6131b3118104bea97d01b4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-09 20:16:23</sys_updated_on>
+        <tablename>sys_sg_list_screen</tablename>
+        <value>Tareas de catálogo abiertas</value>
+    </sys_translated_text>
+</record_update>

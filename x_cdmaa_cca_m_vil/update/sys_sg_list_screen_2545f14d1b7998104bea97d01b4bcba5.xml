@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Vista Resolutor</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Lightbulb">9d45f14d1b7998104bea97d01b4bcb9f</icon>
+        <item_view/>
+        <name>Elementos Pedidos</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 18:05:47</sys_created_on>
+        <sys_id>2545f14d1b7998104bea97d01b4bcba5</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Elementos Pedidos</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_list_screen_2545f14d1b7998104bea97d01b4bcba5</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:26:53</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=2545f14d1b7998104bea97d01b4bcba5"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>2545f14d1b7998104bea97d01b4bcba5</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:26:51</sys_created_on>
+        <sys_id>09d7c2411bf998104bea97d01b4bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:26:51</sys_updated_on>
+        <tablename>sys_sg_list_screen</tablename>
+        <value>Vista Resolutor</value>
+    </sys_translated_text>
+</record_update>

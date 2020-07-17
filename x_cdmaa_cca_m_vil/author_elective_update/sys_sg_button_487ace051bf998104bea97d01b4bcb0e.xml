@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button">
+    <sys_sg_button action="DELETE">
+        <acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label>
+        <allow_images_upload>false</allow_images_upload>
+        <auto_redirection>false</auto_redirection>
+        <button_table_field_name/>
+        <cancel_label/>
+        <condition/>
+        <condition_script/>
+        <condition_type>declarative</condition_type>
+        <confirm_label/>
+        <confirmation_message/>
+        <context>global</context>
+        <description/>
+        <destination_screen display_value="Perfil de empleado">ccab364687103300a785940307cb0b0c</destination_screen>
+        <external_browser>false</external_browser>
+        <failure_message/>
+        <field_name/>
+        <jump_to_previous>false</jump_to_previous>
+        <jump_to_screen>false</jump_to_screen>
+        <link_label/>
+        <link_url/>
+        <mail_address/>
+        <mail_content/>
+        <mail_subject/>
+        <name>Launcher Button</name>
+        <phone_number/>
+        <phone_type>cellular</phone_type>
+        <preconditions>none</preconditions>
+        <relative_url>true</relative_url>
+        <roles/>
+        <save_signature_before_action_execution>false</save_signature_before_action_execution>
+        <select_current_record>false</select_current_record>
+        <show_acknowledgement>false</show_acknowledgement>
+        <show_confirmation>false</show_confirmation>
+        <show_refresh_on_previous>false</show_refresh_on_previous>
+        <show_signature>false</show_signature>
+        <sms/>
+        <success_message/>
+        <sys_class_name>sys_sg_button</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:15</sys_created_on>
+        <sys_id>487ace051bf998104bea97d01b4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launcher Button</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_button_487ace051bf998104bea97d01b4bcb0e</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:15</sys_updated_on>
+        <table/>
+        <take_value_from_field>false</take_value_from_field>
+        <type>redirection</type>
+        <use_overlay>false</use_overlay>
+        <write_back_action_item/>
+    </sys_sg_button>
+    <sys_translated_text action="DELETE" query="documentkey=487ace051bf998104bea97d01b4bcb0e"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey>
+        <fieldname>confirmation_message</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:15</sys_created_on>
+        <sys_id>887ace051bf998104bea97d01b4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:15</sys_updated_on>
+        <tablename>sys_sg_button</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:15</sys_created_on>
+        <sys_id>cc7ace051bf998104bea97d01b4bcb1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:15</sys_updated_on>
+        <tablename>sys_sg_button</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey>
+        <fieldname>failure_message</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:15</sys_created_on>
+        <sys_id>c87ace051bf998104bea97d01b4bcb1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:15</sys_updated_on>
+        <tablename>sys_sg_button</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey>
+        <fieldname>mail_content</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:16</sys_created_on>
+        <sys_id>487ace051bf998104bea97d01b4bcb24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:16</sys_updated_on>
+        <tablename>sys_sg_button</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey>
+        <fieldname>sms</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:16</sys_created_on>
+        <sys_id>807ace051bf998104bea97d01b4bcb22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:16</sys_updated_on>
+        <tablename>sys_sg_button</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey>
+        <fieldname>success_message</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:16</sys_created_on>
+        <sys_id>807ace051bf998104bea97d01b4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:16</sys_updated_on>
+        <tablename>sys_sg_button</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_sg_button_487ace051bf998104bea97d01b4bcb0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button"><sys_sg_button action="INSERT_OR_UPDATE"><acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label><allow_images_upload>false</allow_images_upload><auto_redirection>false</auto_redirection><button_table_field_name/><cancel_label/><condition/><condition_script/><condition_type>declarative</condition_type><confirm_label/><confirmation_message/><context>global</context><description/><destination_screen display_value="Perfil de empleado">ccab364687103300a785940307cb0b0c</destination_screen><external_browser>false</external_browser><failure_message/><field_name/><jump_to_previous>false</jump_to_previous><jump_to_screen>false</jump_to_screen><link_label/><link_url/><mail_address/><mail_content/><mail_subject/><name>Launcher Button</name><phone_number/><phone_type>cellular</phone_type><preconditions>none</preconditions><relative_url>true</relative_url><roles/><save_signature_before_action_execution>false</save_signature_before_action_execution><select_current_record>false</select_current_record><show_acknowledgement>false</show_acknowledgement><show_confirmation>false</show_confirmation><show_refresh_on_previous>false</show_refresh_on_previous><show_signature>false</show_signature><sms/><success_message/><sys_class_name>sys_sg_button</sys_class_name><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:38:15</sys_created_on><sys_id>487ace051bf998104bea97d01b4bcb0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Launcher Button</sys_name><sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package><sys_policy/><sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope><sys_update_name>sys_sg_button_487ace051bf998104bea97d01b4bcb0e</sys_update_name><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:38:15</sys_updated_on><table/><take_value_from_field>false</take_value_from_field><type>redirection</type><use_overlay>false</use_overlay><write_back_action_item/></sys_sg_button><sys_translated_text action="delete_multiple" query="documentkey=487ace051bf998104bea97d01b4bcb0e"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey><fieldname>confirmation_message</fieldname><language>es</language><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:38:15</sys_created_on><sys_id>887ace051bf998104bea97d01b4bcb0f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:38:15</sys_updated_on><tablename>sys_sg_button</tablename><value/></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey><fieldname>description</fieldname><language>es</language><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:38:15</sys_created_on><sys_id>cc7ace051bf998104bea97d01b4bcb1f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:38:15</sys_updated_on><tablename>sys_sg_button</tablename><value/></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey><fieldname>failure_message</fieldname><language>es</language><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:38:15</sys_created_on><sys_id>c87ace051bf998104bea97d01b4bcb1d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:38:15</sys_updated_on><tablename>sys_sg_button</tablename><value/></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey><fieldname>mail_content</fieldname><language>es</language><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:38:16</sys_created_on><sys_id>487ace051bf998104bea97d01b4bcb24</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:38:16</sys_updated_on><tablename>sys_sg_button</tablename><value/></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey><fieldname>sms</fieldname><language>es</language><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:38:16</sys_created_on><sys_id>807ace051bf998104bea97d01b4bcb22</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:38:16</sys_updated_on><tablename>sys_sg_button</tablename><value/></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>487ace051bf998104bea97d01b4bcb0e</documentkey><fieldname>success_message</fieldname><language>es</language><sys_created_by>slx.gs2</sys_created_by><sys_created_on>2020-07-02 19:38:16</sys_created_on><sys_id>807ace051bf998104bea97d01b4bcb27</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>slx.gs2</sys_updated_by><sys_updated_on>2020-07-02 19:38:16</sys_updated_on><tablename>sys_sg_button</tablename><value/></sys_translated_text></record_update>]]></payload>
+        <payload_hash>441195392</payload_hash>
+        <record_name>Launcher Button</record_name>
+        <reverted_from/>
+        <source>444cb8701bf158104bea97d01b4bcb3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:38:16</sys_created_on>
+        <sys_id>087ace051bf998104bea97d01b4bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173110969030000001</sys_recorded_at>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:38:16</sys_updated_on>
+        <type>Function</type>
+        <update_guid>007ace05fef99810cc9bd8e327572f29</update_guid>
+        <update_guid_history>007ace05fef99810cc9bd8e327572f29:441195392,047ace05b3f998105aa61450f870ac26:1457796045,887ace05c1f99810969bd599f5234d23:-1540084420,047ace051af998101f23ea5a7d5f0d21:1193125763,4c7ace05a1f99810f6ca10cc57db0b1e:-55139763,407ace0505f99810a928dcc497c2621d:-2002428327</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 21:02:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button">sys_sg_button</sys_db_object>
+        <sys_id>0454212a7e0c43e2b8600cc25af299c1</sys_id>
+        <sys_metadata>487ace051bf998104bea97d01b4bcb0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launcher Button</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_button_487ace051bf998104bea97d01b4bcb0e</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_487ace051bf998104bea97d01b4bcb0e">087ace051bf998104bea97d01b4bcb29</sys_update_version>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 21:02:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Editar Incidente">fa8105f21b6510104bea97d01b4bcb53</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Editar</label>
+        <location>top</location>
+        <name>Editar</name>
+        <order>10</order>
+        <parent>9a1f7d0f1b6d50104bea97d01b4bcb39</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 16:13:59</sys_created_on>
+        <sys_id>bfabd18d1bf598104bea97d01b4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Editar</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_bfabd18d1bf598104bea97d01b4bcb27</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 16:13:59</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=bfabd18d1bf598104bea97d01b4bcb27"/>
+</record_update>

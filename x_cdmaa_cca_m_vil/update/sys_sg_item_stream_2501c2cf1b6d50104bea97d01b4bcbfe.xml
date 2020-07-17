@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="SLX CatalogTask cerrado completo">67ef7d4f1b6d50104bea97d01b4bcb15</data_item>
+        <interleaved_field/>
+        <name>Cerrado Completo Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 13:49:16</sys_created_on>
+        <sys_id>2501c2cf1b6d50104bea97d01b4bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cerrado Completo Item Stream</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_item_stream_2501c2cf1b6d50104bea97d01b4bcbfe</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 13:49:16</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_item_stream>
+</record_update>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>priority</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">be8105f21b6510104bea97d01b4bcb88</screen>
+        <screen_data_item_table>sc_task</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:27</sys_created_on>
+        <sys_id>f28105f21b6510104bea97d01b4bcbce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_screen_field_f28105f21b6510104bea97d01b4bcbce</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:27</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=f28105f21b6510104bea97d01b4bcbce"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_sg_screen_field_f28105f21b6510104bea97d01b4bcbce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>priority</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">be8105f21b6510104bea97d01b4bcb88</screen>
+        <screen_data_item_table>sc_task</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 14:33:27</sys_created_on>
+        <sys_id>f28105f21b6510104bea97d01b4bcbce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_screen_field_f28105f21b6510104bea97d01b4bcbce</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 14:33:27</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=f28105f21b6510104bea97d01b4bcbce"/>
+</record_update>]]></payload>
+        <payload_hash>1996105096</payload_hash>
+        <record_name>priority</record_name>
+        <reverted_from/>
+        <source>25a43a321b2150104bea97d01b4bcbde</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 22:56:27</sys_created_on>
+        <sys_id>0ba43e321b2150104bea97d01b4bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172edb2567a0000001</sys_recorded_at>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 22:56:27</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>47a43e321421501076e748bef125503f</update_guid>
+        <update_guid_history>47a43e321421501076e748bef125503f:0,2b94b632e92150100369cad523ee0425:-42017120,59e3367a31ed1010292a941c611c0431:0,c9d3fa3ac5ed1010886383a071aa99ab:-42017120,d2fc5dfe10e5101022d1270fc08dec28:0,2decd5fe99e510104096c134ac027576:-42017120,8c9185f270651010bb15d2aa26cc24dc:-188669182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 21:17:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>0605e742d21d47c282eed7f3b59f74a4</sys_id>
+        <sys_metadata>f28105f21b6510104bea97d01b4bcbce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_f28105f21b6510104bea97d01b4bcbce</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_f28105f21b6510104bea97d01b4bcbce">0ba43e321b2150104bea97d01b4bcb3f</sys_update_version>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 21:17:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

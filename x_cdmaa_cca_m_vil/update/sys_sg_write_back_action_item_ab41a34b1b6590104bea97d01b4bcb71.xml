@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>Acción cerrado Incomplleto</description>
+        <execution_script/>
+        <name>SLX C.Incompleto CTASK</name>
+        <query_condition table="sc_task">stateIN-5,1,200,2^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^number={{CatalogTask Number}}^EQ<item display_value="-5,1,200,2" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-5,1,200,2"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{CatalogTask Number}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 20:49:56</sys_created_on>
+        <sys_id>ab41a34b1b6590104bea97d01b4bcb71</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>SLX C.Incompleto CTASK</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_ab41a34b1b6590104bea97d01b4bcb71</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-13 19:14:21</sys_updated_on>
+        <table>sc_task</table>
+        <template>state=4^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab41a34b1b6590104bea97d01b4bcb71"/>
+</record_update>

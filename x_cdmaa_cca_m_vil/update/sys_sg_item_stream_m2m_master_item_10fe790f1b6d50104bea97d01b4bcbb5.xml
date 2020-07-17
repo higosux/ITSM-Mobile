@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Cancelados Item Stream">80fe790f1b6d50104bea97d01b4bcb8f</item_stream>
+        <master_item display_value="Cancelados Master Item">08fe790f1b6d50104bea97d01b4bcba0</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 13:40:10</sys_created_on>
+        <sys_id>10fe790f1b6d50104bea97d01b4bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_10fe790f1b6d50104bea97d01b4bcbb5</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-26 13:40:10</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

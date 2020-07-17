@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>Asignarme</label>
+        <language>es</language>
+        <name>sys_sg_button</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 16:10:03</sys_created_on>
+        <sys_id>4ea7dd3a1be510104bea97d01b4bcbc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asignarme</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_translated_4ea7dd3a1be510104bea97d01b4bcbc8</sys_update_name>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 16:10:03</sys_updated_on>
+        <value>Asignarme</value>
+    </sys_translated>
+</record_update>

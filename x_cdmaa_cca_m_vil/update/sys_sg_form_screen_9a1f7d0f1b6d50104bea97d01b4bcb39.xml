@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Sin Asignar Icon">121f7d0f1b6d50104bea97d01b4bcb34</icon>
+        <item_view display_value="Sin Asignar Header Item View">5e1f7d0f1b6d50104bea97d01b4bcb36</item_view>
+        <name>Incidentes Sin Asignar</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 13:40:52</sys_created_on>
+        <sys_id>9a1f7d0f1b6d50104bea97d01b4bcb39</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Incidentes Sin Asignar</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_form_screen_9a1f7d0f1b6d50104bea97d01b4bcb39</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 16:20:38</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=9a1f7d0f1b6d50104bea97d01b4bcb39"/>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Nuevo Incidente">4a9932101b39d4104bea97d01b4bcbd1</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="icon-Plus">b796bb601bbd18104bea97d01b4bcb72</icon>
+        <label>Nuevo Incidente</label>
+        <location>quick_action</location>
+        <name>Nuevo Incidente</name>
+        <order/>
+        <parent>e281c1f21b6510104bea97d01b4bcbf0</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-06-30 21:25:51</sys_created_on>
+        <sys_id>f25ec4281bbdd4104bea97d01b4bcb01</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Nuevo Incidente</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f25ec4281bbdd4104bea97d01b4bcb01</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-01 14:16:01</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f25ec4281bbdd4104bea97d01b4bcb01"/>
+</record_update>

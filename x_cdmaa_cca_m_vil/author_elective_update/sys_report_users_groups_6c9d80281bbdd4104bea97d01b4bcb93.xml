@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">e49d80281bbdd4104bea97d01b4bcb93</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>slx.bs</sys_created_by>
+        <sys_created_on>2020-06-30 21:15:44</sys_created_on>
+        <sys_id>6c9d80281bbdd4104bea97d01b4bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e49d80281bbdd4104bea97d01b4bcb93</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_report_users_groups_6c9d80281bbdd4104bea97d01b4bcb93</sys_update_name>
+        <sys_updated_by>slx.bs</sys_updated_by>
+        <sys_updated_on>2020-06-30 21:15:44</sys_updated_on>
+        <user_id display_value="slx bs">46c3ca2a1bd51c103cb20e5eea4bcb4a</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</application>
+        <file_path/>
+        <instance_id>93897895db28c01091232f17d49619d8</instance_id>
+        <instance_name>ccadev</instance_name>
+        <name>sys_report_users_groups_6c9d80281bbdd4104bea97d01b4bcb93</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">e49d80281bbdd4104bea97d01b4bcb93</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>slx.bs</sys_created_by><sys_created_on>2020-06-30 21:15:44</sys_created_on><sys_id>6c9d80281bbdd4104bea97d01b4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_name>e49d80281bbdd4104bea97d01b4bcb93</sys_name><sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package><sys_policy/><sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope><sys_update_name>sys_report_users_groups_6c9d80281bbdd4104bea97d01b4bcb93</sys_update_name><sys_updated_by>slx.bs</sys_updated_by><sys_updated_on>2020-06-30 21:15:44</sys_updated_on><user_id display_value="slx bs">46c3ca2a1bd51c103cb20e5eea4bcb4a</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>-1913734919</payload_hash>
+        <record_name>e49d80281bbdd4104bea97d01b4bcb93</record_name>
+        <reverted_from/>
+        <source>5dc1b7d81bb518108e0767853a4bcb6f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>slx.bs</sys_created_by>
+        <sys_created_on>2020-06-30 21:15:45</sys_created_on>
+        <sys_id>2c9d80281bbdd4104bea97d01b4bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1730715effc0000001</sys_recorded_at>
+        <sys_updated_by>slx.bs</sys_updated_by>
+        <sys_updated_on>2020-06-30 21:15:45</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>649d802832bdd410bf98ba17aa4a1795</update_guid>
+        <update_guid_history>649d802832bdd410bf98ba17aa4a1795:-1913734919</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-06 21:07:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>1bc9d9df85bd4918a62d73c19279f840</sys_id>
+        <sys_metadata>6c9d80281bbdd4104bea97d01b4bcb93</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e49d80281bbdd4104bea97d01b4bcb93</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">019ebd35db824ffd800a55c30f8ab339</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_6c9d80281bbdd4104bea97d01b4bcb93</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_6c9d80281bbdd4104bea97d01b4bcb93">2c9d80281bbdd4104bea97d01b4bcb95</sys_update_version>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-06 21:07:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

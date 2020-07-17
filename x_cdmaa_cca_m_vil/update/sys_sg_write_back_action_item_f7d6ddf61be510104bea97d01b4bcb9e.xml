@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>AS = Acción asignarme</description>
+        <execution_script/>
+        <name>SLX Asignarme INC</name>
+        <query_condition table="incident">assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^number={{incident number}}^EQ<item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{incident number}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 16:07:58</sys_created_on>
+        <sys_id>f7d6ddf61be510104bea97d01b4bcb9e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>SLX Asignarme INC</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_f7d6ddf61be510104bea97d01b4bcb9e</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-13 19:17:26</sys_updated_on>
+        <table>incident</table>
+        <template>state=200^assigned_to={{incident asigned to}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=f7d6ddf61be510104bea97d01b4bcb9e"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f7d6ddf61be510104bea97d01b4bcb9e</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-25 16:07:58</sys_created_on>
+        <sys_id>5727ddb61be510104bea97d01b4bcb83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs</sys_updated_by>
+        <sys_updated_on>2020-06-25 16:07:58</sys_updated_on>
+        <tablename>sys_sg_write_back_action_item</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

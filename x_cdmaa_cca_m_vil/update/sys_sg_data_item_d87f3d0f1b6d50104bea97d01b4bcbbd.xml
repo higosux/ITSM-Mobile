@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Tareas de catálogo abiertas</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SLX CatalogTask abiertas</name>
+        <query_condition table="sc_task">state=-5^ORstate=1^ORstate=200^ORstate=2^assigned_toISNOTEMPTY^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORDERBYnumber<item display_value="On hold" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
+            <item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="1"/>
+            <item display_value="Assigned" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="200"/>
+            <item display_value="Work in Progress" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="2"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>slx.gs</sys_created_by>
+        <sys_created_on>2020-06-26 13:42:22</sys_created_on>
+        <sys_id>d87f3d0f1b6d50104bea97d01b4bcbbd</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>SLX CatalogTask abiertas</sys_name>
+        <sys_package display_value="ITSM-Mobile" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM-Mobile">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_data_item_d87f3d0f1b6d50104bea97d01b4bcbbd</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 21:25:14</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d87f3d0f1b6d50104bea97d01b4bcbbd"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d87f3d0f1b6d50104bea97d01b4bcbbd</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-02 19:33:27</sys_created_on>
+        <sys_id>3959c6c11bf998104bea97d01b4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-02 19:33:27</sys_updated_on>
+        <tablename>sys_sg_data_item</tablename>
+        <value>Tareas de catálogo abiertas</value>
+    </sys_translated_text>
+</record_update>
